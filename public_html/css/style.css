@@ -83,6 +83,10 @@ div.internalblock {
     text-align: center;
 }
 
+div.internalblock p {
+    text-indent: 0px;
+}
+
 ul {
     padding-left: 20px;
 }
