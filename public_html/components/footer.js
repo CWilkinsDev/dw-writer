@@ -3,13 +3,13 @@ const footerTemplate = document.createElement('template');
 footerTemplate.innerHTML = `
   <style>
     footer {
-      height: 60px;
+      height: 40px;
       padding: 0 10px;
       list-style: none;
       display: flex;
       justify-content: space-between;
       align-items: center;
-      background-color: #1a1a1f;
+      background-color: #17172b;
       color: goldenrod;
     }
 

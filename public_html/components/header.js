@@ -9,7 +9,7 @@ headerTemplate.innerHTML = `
       display: flex;
       align-items: center;
       justify-content: center;
-      background-color: #1a1a1f;
+      background-color: #17172b;
     }
 
     ul {

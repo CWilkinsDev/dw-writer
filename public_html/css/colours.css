@@ -1,20 +1,20 @@
 body {
-    color: #e2e5ee;
-    background-color: #060624;
+    color: #04041f;
+    background-color: #edeee2;
 }
 
 a {
-    color: blanchedalmond;
+    color: #0b0b61;
 }
 
 div.sidespacer {
-    border-color: goldenrod;
+    border-color: #1f1f31;
 }
 
 div.pagetitle {
-    border-color: goldenrod;
+    border-color: #1f1f31;
 }
 
 div.contentblock {
-    border-color: goldenrod;
+    border-color: #1f1f31;
 }
