@@ -19,13 +19,32 @@
         <div class="sidespacer"></div>
         <div class="content">
             <div class="pagetitle">
-                <h2>About David Wilkins</h2>
+                <h2>Books</h2>
             </div>
             <div class="contentblock">
                 <p>
-                    David Wilkins is a former social worker and academic turned author.
-                    He lives on the Isle of Portland in Dorset.
+                    David Wilkins has published two edited editions of found memoirs:
                 </p>
+                <div class="contentblock internalblock">
+                    <h4>
+                        <a href="longest-walk.php">The Longest Walk Home</a>
+                    </h4>
+                    <p style="margin-bottom: auto;">
+                        by Ray Bailey
+                        <br>
+                        <i>Quercus, 2024</i>
+                    </p>
+                </div>
+                <div class="contentblock internalblock">
+                    <h4>
+                        <a href="schoolboy-servant.php">Schoolboy, Servant, GWR Apprentice</a>
+                    </h4>
+                    <p style="margin-bottom: auto;">
+                        by Alfred Plumley
+                        <br>
+                        <i>History Press, 2017</i>
+                    </p>
+                </div>
             </div>
         </div>
         <div class="sidespacer"></div>
