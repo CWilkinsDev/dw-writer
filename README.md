@@ -1,0 +1,1 @@
+`firefox ./public_html/index.php`
