@@ -19,7 +19,7 @@
         <div class="sidespacer"></div>
         <div class="content">
             <div class="pagetitle">
-                <h2>My Work</h2>
+                <h2>The Longest Walk Home</h2>
             </div>
             <div class="contentblock">
                 <p>
