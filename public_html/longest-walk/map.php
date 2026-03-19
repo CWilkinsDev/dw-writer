@@ -28,6 +28,10 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
         integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
 
+    <!-- Site-Wide Imports -->
+    <script src="../components/header.js" type="text/javascript" defer></script>
+    <script src="../components/footer.js" type="text/javascript" defer></script>
+
     <style>
         body {
             margin: 0;
@@ -59,6 +63,7 @@
 </head>
 
 <body>
+    <header-component></header-component>
     <div class="header">
         <h1 style="margin-bottom: 0">The Longest Walk Home</h1>
         <i><small>Ray Bailey with David Wilkins</small></i>
@@ -86,6 +91,7 @@
     </div>
 
     <div id="map"></div>
+    <footer-component></footer-component>
 
     <!-- Leaflet JS -->
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
