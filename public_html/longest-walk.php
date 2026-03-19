@@ -46,6 +46,11 @@
                         <i>The Longest Walk Home</i> is published by Quercus.
                     </a>
                 </p>
+                <p>
+                    <a href="./longest-walk/map.php">
+                        Click here to view an interactive map of Ray's journey!
+                    </a>
+                </p>
             </div>
         </div>
         <div class="sidespacer"></div>
