@@ -68,9 +68,9 @@
 </head>
 
 <body>
-    <header-component></header-component>
+    <header-component style="position: relative;"></header-component>
     <main>
-        <div class="content">
+        <div class="content" style="margin-top: 10px; margin-bottom: 0px;">
             <div class="contentblock" id="mapcontentblock">
                 <div class="header">
                     <h1 style="margin-bottom: 0">The Longest Walk Home</h1>
@@ -110,7 +110,7 @@
             </div>
         </div>
     </main>
-    <footer-component></footer-component>
+    <footer-component style="position: relative;"></footer-component>
 
     <!-- Leaflet JS -->
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
