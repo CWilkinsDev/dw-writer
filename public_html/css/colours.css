@@ -18,3 +18,8 @@ div.pagetitle {
 div.contentblock {
     border-color: #1f1f31;
 }
+
+/* For map page */
+.legend {
+    background: #edeee2;
+}

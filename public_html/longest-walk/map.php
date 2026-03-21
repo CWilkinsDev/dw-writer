@@ -29,6 +29,7 @@
         integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
 
     <!-- Site-Wide Imports -->
+    <link href="../css/colours.css" rel="stylesheet" type="text/css" />
     <script src="../components/header.js" type="text/javascript" defer></script>
     <script src="../components/footer.js" type="text/javascript" defer></script>
 
@@ -44,7 +45,6 @@
         }
 
         .legend {
-            background: white;
             padding: 8px 10px;
             line-height: 1.4;
             font-size: 14px;
