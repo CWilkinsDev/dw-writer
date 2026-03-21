@@ -42,6 +42,11 @@
         #mapcontentblock {
             margin-left: 2%;
             margin-right: 2%;
+
+            p {
+                text-indent: 0px;
+                margin-bottom: 2px;
+            }
         }
 
         #map {
@@ -76,7 +81,7 @@
                     <h1 style="margin-bottom: 0">The Longest Walk Home</h1>
                     <i><small>Ray Bailey with David Wilkins</small></i>
 
-                    <p style="margin-top: 2rem">
+                    <p style="margin-top: 2rem; margin-bottom: 20px;">
                         <a href="https://www.quercusbooks.co.uk/titles/ray-bailey/the-longest-walk-home/9781529447088/"
                             target="_blank">The Longest Walk Home</a> is the incredible account
                         of Ray Bailey's daring 2,000 mile escape across Europe and over the Pyrenees, to the safety of
@@ -85,14 +90,16 @@
                     </p>
 
                     <h3>About this map</h3>
-                    <p>I <i>loved</i> reading this book. I wanted to follow along on a map but couldn't find one online,
-                        so
-                        decided
-                        to create this myself.</p>
-                    <p>This map shows Ray's escape from the allied surrender in St Valery, to the British consulate in
+                    <p>
+                        I <i>loved</i> reading this book. I wanted to follow along on a map but couldn't find one
+                        online,
+                        so decided to create this myself.
+                    </p>
+                    <p>
+                        This map shows Ray's escape from the allied surrender in St Valery, to the British consulate in
                         Barcelona.
                     </p>
-                    <p style="margin-bottom: 0">
+                    <p style="margin-bottom: 20px;">
                         I made this by scanning the book a 2nd time and jotting down any place names.
                         If you spot any issues, feel free to <a href="https://www.stufro.com/" target="_blank">contact
                             me
@@ -104,7 +111,6 @@
                         You can also see the code on <a
                             href="https://github.com/stufro/the-longest-walk-home-map">GitHub</a>.
                     </p>
-                    <br>
                 </div>
                 <div id="map"></div>
             </div>
