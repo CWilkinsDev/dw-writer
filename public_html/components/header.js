@@ -48,7 +48,6 @@ headerTemplate.innerHTML = `
     <nav>
       <ul>
         <li><a href="${homeDirectoryPointer}/">Home</a></li>
-        <li><a href="${homeDirectoryPointer}/about.php">About</a></li>
         <li><a href="${homeDirectoryPointer}/books.php">Books</a></li>
         <li><a href="${homeDirectoryPointer}/contact.php">Contact</a></li>
       </ul>
