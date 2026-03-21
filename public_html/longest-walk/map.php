@@ -30,13 +30,18 @@
 
     <!-- Site-Wide Imports -->
     <link href="../css/colours.css" rel="stylesheet" type="text/css" />
+    <link href="../css/style.css" rel="stylesheet" type="text/css" />
     <script src="../components/header.js" type="text/javascript" defer></script>
     <script src="../components/footer.js" type="text/javascript" defer></script>
 
     <style>
         body {
             margin: 0;
-            font-family: system-ui, -apple-system, sans-serif;
+        }
+
+        #mapcontentblock {
+            margin-left: 2%;
+            margin-right: 2%;
         }
 
         #map {
@@ -64,33 +69,47 @@
 
 <body>
     <header-component></header-component>
-    <div class="header">
-        <h1 style="margin-bottom: 0">The Longest Walk Home</h1>
-        <i><small>Ray Bailey with David Wilkins</small></i>
+    <main>
+        <div class="content">
+            <div class="contentblock" id="mapcontentblock">
+                <div class="header">
+                    <h1 style="margin-bottom: 0">The Longest Walk Home</h1>
+                    <i><small>Ray Bailey with David Wilkins</small></i>
 
-        <p style="margin-top: 2rem">
-            <a href="https://www.quercusbooks.co.uk/titles/ray-bailey/the-longest-walk-home/9781529447088/"
-                target="_blank">The Longest Walk Home</a> is the incredible account
-            of Ray Bailey's daring 2,000 mile escape across Europe and over the Pyrenees, to the safety of British
-            Gibraltar, and home in time for Christmas.
-        </p>
+                    <p style="margin-top: 2rem">
+                        <a href="https://www.quercusbooks.co.uk/titles/ray-bailey/the-longest-walk-home/9781529447088/"
+                            target="_blank">The Longest Walk Home</a> is the incredible account
+                        of Ray Bailey's daring 2,000 mile escape across Europe and over the Pyrenees, to the safety of
+                        British
+                        Gibraltar, and home in time for Christmas.
+                    </p>
 
-        <h2>About this map</h2>
-        <p>I <i>loved</i> reading this book. I wanted to follow along on a map but couldn't find one online, so decided
-            to create this myself.</p>
-        <p>This map shows Ray's escape from the allied surrender in St Valery, to the British consulate in Barcelona.
-        </p>
-        <p style="margin-bottom: 0">
-            I made this by scanning the book a 2nd time and jotting down any place names.
-            If you spot any issues, feel free to <a href="https://www.stufro.com/" target="_blank">contact me using the
-                links at the bottom of my site</a>, or if you have an account, raise a
-            <a href="https://github.com/stufro/the-longest-walk-home-map/issues" target="_blank">GitHub issue</a>.
-            You can also see the code on <a href="https://github.com/stufro/the-longest-walk-home-map">GitHub</a>.
-        </p>
-        <br>
-    </div>
-
-    <div id="map"></div>
+                    <h3>About this map</h3>
+                    <p>I <i>loved</i> reading this book. I wanted to follow along on a map but couldn't find one online,
+                        so
+                        decided
+                        to create this myself.</p>
+                    <p>This map shows Ray's escape from the allied surrender in St Valery, to the British consulate in
+                        Barcelona.
+                    </p>
+                    <p style="margin-bottom: 0">
+                        I made this by scanning the book a 2nd time and jotting down any place names.
+                        If you spot any issues, feel free to <a href="https://www.stufro.com/" target="_blank">contact
+                            me
+                            using
+                            the
+                            links at the bottom of my site</a>, or if you have an account, raise a
+                        <a href="https://github.com/stufro/the-longest-walk-home-map/issues" target="_blank">GitHub
+                            issue</a>.
+                        You can also see the code on <a
+                            href="https://github.com/stufro/the-longest-walk-home-map">GitHub</a>.
+                    </p>
+                    <br>
+                </div>
+                <div id="map"></div>
+            </div>
+        </div>
+    </main>
     <footer-component></footer-component>
 
     <!-- Leaflet JS -->
