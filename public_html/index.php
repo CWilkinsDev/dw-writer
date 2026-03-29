@@ -84,7 +84,7 @@
                     find the stories behind both of them by clicking here: The Story Behind The Stories. If you are
                     interested in the process of achieving publication, then you can read about my personal experience
                     of that here: The Long Road to Publication. In the unlikely event that you want to know more about
-                    me, click on the link to my biography above.
+                    me, click on the link to my biography in the header.
                 </p>
                 <p>
                     David W.
