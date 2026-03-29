@@ -34,7 +34,9 @@
                     I'm David Wilkins and since I retired from work at the age of sixty in 2015, I've written - or
                     rather, I've partly-written and partly-assembled - a couple of books. The first one was quite a
                     small project, a personal challenge, to see if I could do it. It was moderately successful but
-                    largely only of regional interest in the West Country. The second - The Longest Walk Home - has sold
+                    largely only of regional interest in the West Country. The second -
+                    <a href="./longest-walk.php"><i>The Longest Walk Home</i></a>
+                    - has sold
                     very well in its market and received lots of positive reviews. It is that book that is my motivation
                     for putting this website together. I'm a private person. I have no social media accounts - and I
                     would truly rather not write about myself online. But I've been encouraged to make this website by
@@ -53,7 +55,8 @@
                     I started reading books when I was at infants' school in the early 1960s and I've not stopped since.
                     I've read loads. But until I had a crack at it myself I'd never really thought about how difficult
                     it is to create a book. In the first place, you have to research, write and edit the thing. In the
-                    case of The Longest Walk Home, this took hundreds of hours and for me, was every bit as slow and
+                    case of <i>The Longest Walk Home</i>, this took hundreds of hours and for me, was every bit as slow
+                    and
                     tortuous a process as all those celebrated authors say it is. Next, you have to find a publisher.
                     That was certainly the most difficult bit for me, as it probably is I think for most aspiring
                     writers. Ten publishers either turned me down flat or didn't even bother to reply. I began to
@@ -74,19 +77,24 @@
                     leaking out of the pipes. And in the real world meanwhile, smart, efficient, young people were
                     promoting the book, arranging for it to be distributed and encouraging booksellers to stock it.
                     Getting to the stage of publication once you have a publisher seems relatively quick - but the whole
-                    thing from start to finish takes an age - or at least it did in my case. The Longest Walk Home took
+                    thing from start to finish takes an age - or at least it did in my case. <i>The Longest Walk
+                        Home</i> took
                     more than six years from my starting work on it at my kitchen table to the joyous little miracle of
                     seeing it on bookshop shelves.
                 </p>
                 <p>
                     So, there's a lot more to having a book published than you might think. If you want to know more
                     about my discovery of the two found manuscripts that form the core of my two books, then you can
-                    find the stories behind both of them by clicking here: The Story Behind The Stories. If you are
+                    find the stories behind both of them by clicking here:
+                    <a href="blog/behind-the-stories.php">The Story Behind The Stories.</a>
+                    If you are
                     interested in the process of achieving publication, then you can read about my personal experience
-                    of that here: The Long Road to Publication. In the unlikely event that you want to know more about
-                    me, click on the link to my biography in the header.
+                    of that here:
+                    <a href="blog/road-to-publication.php">The Long Road to Publication.</a>
+                    In the unlikely event that you want to know more about me,
+                    <a href="./biography.php">click here to read a short biography.</a>
                 </p>
-                <p>
+                <p style="text-indent: 100px;">
                     David W.
                 </p>
             </div>

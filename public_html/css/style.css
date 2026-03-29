@@ -91,9 +91,7 @@ ul {
     padding-left: 20px;
 }
 
-a {
-    text-decoration: none;
-}
+a {}
 
 #floatingimagecontainer {
     width: 100%;
