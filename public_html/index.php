@@ -23,8 +23,8 @@
                 <h2>Author and Social Historian</h2>
             </div>
             <div class="contentblock" id="floatingimagecontainer">
-                <div id="floatingimage">
-                    <img src="images/david-wilkins_500x400.jpg"
+                <div>
+                    <img src="images/david-wilkins_960x633.jpg"
                         alt="A portrait photograph of the author from the waist up" />
                 </div>
                 <p>
