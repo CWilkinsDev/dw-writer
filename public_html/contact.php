@@ -23,7 +23,7 @@
             </div>
             <div class="contentblock">
                 <p>
-                    David Wilkins can be contacted by email at <code>info@dw-writer.co.uk</code>
+                    David Wilkins can be contacted by email at <code>david@dw-writer.co.uk</code>
                 </p>
                 <p>
                     Be seeing you :)
