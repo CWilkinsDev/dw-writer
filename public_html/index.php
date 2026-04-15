@@ -88,7 +88,11 @@
                 </p>
             </div>
         </div>
-        <div class="sidespacer"></div>
+        <div class="sidespacer" style="display: flex; flex-direction: column-reverse;">
+            <p style="text-indent: 5px;">
+                This website built and maintained by <a href="https://charliewilkins.tech">Charlie Wilkins</a>
+            </p>
+        </div>
     </main>
     <div hidden="true">
         <?php include("./php/hitcounter.php"); ?>
