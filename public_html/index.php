@@ -88,10 +88,12 @@
                 </p>
             </div>
         </div>
-        <div class="sidespacer" style="display: flex; flex-direction: column-reverse;">
-            <p style="padding-left: 5px; text-indent: 0px;">
-                This website built and maintained by <a href="https://charliewilkins.tech">Charlie Wilkins</a>
-            </p>
+        <div class="sidespacer">
+            <div style=" display: flex; flex-direction: column-reverse;">
+                <p style="padding-left: 5px; text-indent: 0px;">
+                    This website built and maintained by <a href="https://charliewilkins.tech">Charlie Wilkins</a>
+                </p>
+            </div>
         </div>
     </main>
     <div hidden="true">
