@@ -3,6 +3,10 @@
         display: none;
     }
 
+    #sidespacer-credit {
+        display: none;
+    }
+
     div.content {
         padding-left: 3%;
         padding-right: 3%;
