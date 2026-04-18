@@ -1,25 +1,20 @@
 body {
-    color: #04041f;
-    background-color: #edeee2;
+    color: #282624;
+    background-color: #c9c5bc;
+}
+
+div {
+    border-color: #52423e;
 }
 
 a {
-    color: #0b0b61;
-}
-
-div.sidespacer {
-    border-color: #1f1f31;
-}
-
-div.pagetitle {
-    border-color: #1f1f31;
-}
-
-div.contentblock {
-    border-color: #1f1f31;
+    color: #52423e;
 }
 
 /* For map page */
 .legend {
-    background: #edeee2;
+    background: #c9c5bc;
 }
+
+/* Header/footer background: #1f1f31 text: #c9c5bc */
+/* Colour Palette: https://www.tumblr.com/hey-color-palettes/search/steambreather */

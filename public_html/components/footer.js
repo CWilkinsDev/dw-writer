@@ -9,8 +9,8 @@ footerTemplate.innerHTML = `
       display: flex;
       justify-content: space-between;
       align-items: center;
-      background-color: #17172b;
-      color: goldenrod;
+      background-color: #1f1f31;
+      color: #c9c5bc;
     }
 
     .rhs {
@@ -43,7 +43,7 @@ footerTemplate.innerHTML = `
 
     a:hover {
       padding-bottom: 5px;
-      box-shadow: inset 0 -2px 0 0 goldenrod;
+      box-shadow: inset 0 -2px 0 0 #c9c5bc;
     }
 
     .social-row {

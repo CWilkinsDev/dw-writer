@@ -9,7 +9,7 @@ headerTemplate.innerHTML = `
       display: flex;
       align-items: center;
       justify-content: center;
-      background-color: #17172b;
+      background-color: #1f1f31;
     }
 
     ul {
@@ -23,7 +23,7 @@ headerTemplate.innerHTML = `
 
     a {
       font-weight: 700;
-      color: goldenrod;
+      color: #c9c5bc;
       text-decoration: none;
     }
 
@@ -41,7 +41,7 @@ headerTemplate.innerHTML = `
 
     a:hover {
       padding-bottom: 5px;
-      box-shadow: inset 0 -2px 0 0 goldenrod;
+      box-shadow: inset 0 -2px 0 0 #c9c5bc;
     }
   </style>
   <header>
