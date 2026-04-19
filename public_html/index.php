@@ -10,7 +10,7 @@
     <link href="css/mobile.css" rel="stylesheet" type="text/css" />
     <script src="components/header.js" type="text/javascript" defer></script>
     <script src="components/footer.js" type="text/javascript" defer></script>
-    <title>David Wilkins | Author</title>
+    <title>David Wilkins | Writer</title>
 </head>
 
 <body>
@@ -20,7 +20,7 @@
         <div class="content">
             <div class="pagetitle">
                 <h2>David Wilkins</h2>
-                <h2>Author and Social Historian</h2>
+                <h2>Writer</h2>
             </div>
             <div class="contentblock" id="floatingimagecontainer">
                 <div>

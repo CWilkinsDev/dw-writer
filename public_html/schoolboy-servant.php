@@ -10,7 +10,7 @@
     <link href="css/mobile.css" rel="stylesheet" type="text/css" />
     <script src="components/header.js" type="text/javascript" defer></script>
     <script src="components/footer.js" type="text/javascript" defer></script>
-    <title>David Wilkins | Author</title>
+    <title>David Wilkins | Writer</title>
 </head>
 
 <body>
