@@ -23,10 +23,11 @@
             </div>
             <div class="contentblock">
                 <p>
-                    David Wilkins can be contacted by email at <code>david@dw-writer.co.uk</code>
+                    If you have any comments or questions relating to my writing or to either of my books, please feel
+                    free to email me:
                 </p>
                 <p>
-                    Be seeing you :)
+                    david@dw-writer.co.uk
                 </p>
             </div>
         </div>
