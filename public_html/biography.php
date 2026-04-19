@@ -37,14 +37,8 @@
                     worked with the museum here on the island to develop an innovative history project in partnership
                     with the local primary school. We were all very proud of this project and although it is not
                     especially relevant to this website, if you are interested, you can see an entertaining video about
-                    it here:
+                    it at the bottom of this page.
                 </p>
-                <div style="display: flex; flex-direction: column;">
-                    <iframe title="vimeo-player" src="https://player.vimeo.com/video/1094982270?h=adb82d915b"
-                        width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin"
-                        allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"
-                        allowfullscreen style="align-self: center;"></iframe>
-                </div>
                 <p>
                     I keep fit by walking along the coastline and among the strangely beautiful heaps of rock and
                     abandoned quarries that make up much of Portland. I also play football twice a week - albeit at a
@@ -66,6 +60,19 @@
                     ordinary people who have found a way to speak to us directly and vividly from the past. They are the
                     voices of ghosts. Amiable ghosts.
                 </p>
+                <p>
+                    <br>
+                </p>
+                <p>
+                    And for anybody interested, here is the video I mentioned:
+                </p>
+                <div style="display: flex; flex-direction: column;">
+                    <iframe title="vimeo-player" src="https://player.vimeo.com/video/1094982270?h=adb82d915b"
+                        id="video-player" width="640" height="360" frameborder="0"
+                        referrerpolicy="strict-origin-when-cross-origin"
+                        allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"
+                        allowfullscreen style="align-self: center;"></iframe>
+                </div>
             </div>
         </div>
         <div class="sidespacer"></div>
