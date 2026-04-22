@@ -64,7 +64,7 @@
                     I love books. I learned to read when I was at infants' school in the early 1960s and I've not
                     stopped reading since. A rough calculation suggests I've managed comfortably over 1500 books so far
                     in my life. But until I had a crack at it myself I'd never really thought about how difficult it is
-                    actually to make a book actually happen. In the first place, you have to research, write and edit
+                    to make a book actually happen. In the first place, you have to research, write and edit
                     the thing. In the case of <i>The Longest Walk Home</i>, this took hundreds of hours and for me, was
                     every
                     bit as slow and tortuous a process as those celebrated authors always say it is. Next, you have to
