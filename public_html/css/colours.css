@@ -8,7 +8,12 @@ div {
 }
 
 a {
-    color: #52423e;
+    color: #490d03;
+}
+
+a:focus,
+a:hover {
+    color: #606c76
 }
 
 /* For map page */
